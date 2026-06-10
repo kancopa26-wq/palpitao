@@ -1,0 +1,4 @@
+codigo_jogo,fase,grupo,rodada,data_hora,time_a,codigo_time_a,time_b,codigo_time_b,gols_a,gols_b,status
+G01,GRUPOS,A,1,2026-06-11 19:00,Mexico,MEX,Africa do Sul,RSA,,,aberto
+G02,GRUPOS,A,1,2026-06-12 16:00,Canada,CAN,Uruguai,URU,,,aberto
+G03,GRUPOS,C,1,2026-06-13 19:00,Brasil,BRA,Marrocos,MAR,,,aberto
